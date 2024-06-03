@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1000&pause=3000&color=2CCBFB&center=true&vCenter=true&random=true&width=500&lines=Hey! I'm+Nitin🙋🏻‍♂️" alt="Nitin Goyal typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1000&pause==10000&color=2CCBFB&center=true&vCenter=true&random=true&width=500&lines=Hey! I'm+Nitin🙋🏻‍♂️" alt="Nitin Goyal typing SVG" />
     </a>
 </h1>
 <h2 align="center" margin-bottom:'10px'> <span style="color: #e83e8c; border-bottom: solid 1px; font-size: 2rem">Full Stack Software Engineer</h2>
