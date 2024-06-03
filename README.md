@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1000&pause=3000&color=2CCBFB&center=true&vCenter=true&random=true&width=500&lines=Hey! I'm+Nitin🙋🏻‍♂️" alt="Nitin Goyal typing SVG" />
     </a>
 </h1>
-<div align="center" margin-bottom:'10px'> <span style="color: #e83e8c; border-bottom: solid 1px; font-size: 2rem">Full Stack Software Engineer</div>
+<h2 align="center" margin-bottom:'10px'> <span style="color: #e83e8c; border-bottom: solid 1px; font-size: 2rem">Full Stack Software Engineer</h2>
 
 <br />
 <br />
@@ -64,21 +64,14 @@
 <br />
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
 <br />
-
 <div align=center>
-
   <img width="420" height="165" src="https://streak-stats.demolab.com/?user=nitingoyal0996&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nitingoyal0996&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingoyal0996&Langs_count=5&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide=jupyter_notebook" alt="top langs" /> -->
-  <br/>
-  <br/>
-  
+  <!--   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitingoyal0996&Langs_count=5&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide=jupyter_notebook" alt="top langs" /> -->
+  <!--   <br/> -->
 </div>
-
-<br/>
 <br/>
 <br/>
