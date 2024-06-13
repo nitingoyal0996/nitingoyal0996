@@ -33,7 +33,7 @@
   </a>
   </a>
     <a href="https://leetcode.com/u/n-goyal/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" target="_blank" />
   </a>
 </div>
 
