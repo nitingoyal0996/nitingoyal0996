@@ -13,8 +13,6 @@
   <br />
   🌱 I'm actively learning <strong> Backend & Cloud Engineering, Distributed Systems</strong>.
   <br />
-  🌱 I believe that technology and intelligence and equipping myself with Machine Learning and AI fundamentals.
-  <br />
   🧙‍♂️ Ask me about Problem Solving & Optimization 👏 Web 👏 Cloud 👏 AI/ML 👏 Distributed Systems.
   <br />
   🔧 I am resourceful, 🖖🏼 helpful, and excel in root-cause analysis 🤹🏼‍♂️.<br />
